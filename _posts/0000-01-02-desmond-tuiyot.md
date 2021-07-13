@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Desmond's slide!"
 ---
 well now you've offended me too
 Your text
